@@ -1,7 +1,7 @@
 {
-  "name": "Shibarium Beta",
+  "name": "Shibarium",
   "chain": "Shibarium Beta",
-  "icon": "shibarium beta",
+  "icon": "beta-shibarium",
   "rpc": ["https://puppynet.shibrpc.com"],
   "faucets": [],
   "nativeCurrency": {
@@ -10,9 +10,9 @@
     "decimals": 18
   },
   "infoURL": "https://beta.shibariumtech.com",
-  "shortName": "shibarium",
-  "chainId": 719,
-  "networkId": 719,
+  "shortName": "beta-shibarium",
+  "chainId": 613,
+  "networkId": 613,
   "explorers": [
     {
       "name": "shibscan",

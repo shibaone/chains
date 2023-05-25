@@ -1,7 +1,7 @@
 {
   "name": "Shibarium Dev",
   "chain": "Shibarium Dev",
-  "icon": "shibarium dev",
+  "icon": "dev-shibarium",
   "rpc": ["https://puppynet.shibrpc.com"],
   "faucets": [],
   "nativeCurrency": {
@@ -10,7 +10,7 @@
     "decimals": 18
   },
   "infoURL": "https://beta.shibariumtech.com",
-  "shortName": "shibarium",
+  "shortName": "dev-shibarium",
   "chainId": 197,
   "networkId": 197,
   "explorers": [
