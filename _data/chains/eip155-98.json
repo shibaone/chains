@@ -1,24 +1,23 @@
 {
-  "name": "Six Protocol",
-  "chain": "SIXNET",
-  "icon": "six",
-  "rpc": ["https://sixnet-rpc-evm.sixprotocol.net"],
+  "name": "Shib",
+  "chain": "Shib",
+  "icon": "shib",
+  "rpc": ["https://shibrpc.com"],
   "faucets": [],
   "nativeCurrency": {
-    "name": "SIX evm token",
-    "symbol": "SIX",
+    "name": "BONE",
+    "symbol": "BONE",
     "decimals": 18
   },
-  "infoURL": "https://six.network/",
-  "shortName": "six",
+  "infoURL": "https://beta.shibariumtech.com",
+  "shortName": "shibarium",
   "chainId": 98,
   "networkId": 98,
   "explorers": [
     {
-      "name": "SIX Scan",
-      "url": "https://sixscan.io/sixnet",
-      "standard": "none",
-      "icon": "six"
+      "name": "shibscan",
+      "url": "https://puppyscan.shib.io",
+      "standard": "EIP3091"
     }
   ]
 }
